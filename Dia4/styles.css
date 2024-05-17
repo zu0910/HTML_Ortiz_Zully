@@ -1,0 +1,265 @@
+@font-face {
+    font-family: "Mifuente";
+    src: url("fuente/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/Amazon-Ember-Medium.ttf");
+}
+body{
+    margin: 0 auto;
+    width: 1920px;
+    height: 1080px; 
+    font-family: "Mifuente";
+}
+#fondo_negro{
+    width: 1918px;
+    height: 4149px;
+    border: 1px solid #707070;
+}
+#fondo2{
+    position: relative;
+    width: 1918px;
+    height: 1080px;
+    bottom: 4145px;
+}
+#logoPrime{
+    position: relative;
+    width: 556px;
+    height: 313px;
+    left: 682px;
+    bottom: 5000px;
+}
+#lupita{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    bottom: 5470px;
+    left: -500px;
+
+}
+.rect{
+    position: relative;
+    background-color: white;
+    width: 180px;
+    height: 45px;
+    bottom: 5510px;
+    left: 1710px;
+    border-top-left-radius: 10% 50%;
+    border-top-right-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    border-bottom-right-radius: 10% 50%;
+
+}
+p#login{
+    position: relative;
+    font-size: 20px;
+    opacity: 100%;
+    left: 36%;
+    color: black;
+    top: 10px;
+}
+h1#text1{
+    position: relative;
+    bottom: 5150px;
+    color: white;
+    left: 19%;
+    font-size: 60px;
+}
+p#text2{
+    position: relative;
+    font-size: 30px;
+    bottom: 5165px;
+    left: 22%;
+    color: white;
+    text-align: center;
+    width: 1060px;
+}
+.rect2{
+    position: relative;
+    background-color: white;
+    width: 458px;
+    height: 95px;
+    bottom: 5150px;
+    left: 730px;
+    border-top-left-radius: 10% 50%;
+    border-top-right-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    border-bottom-right-radius: 10% 50%;
+}
+p#Sign-Up{
+    position: relative;
+    font-size: 47px;
+    opacity: 100%;
+    left: 8%;
+    color: black;
+    top: 20px;
+}
+.caja1 img{
+    position: relative;
+    bottom: 4960px;
+    left: 67px;
+    width: 1792px;
+    height: 567px;
+}
+.caja2 img{
+    position: relative;
+    bottom: 4908px;
+    left: 67px;
+    width: 1792px;
+    height: 724px;
+}
+.caja3 img{
+    position: relative;
+    bottom: 5560px;
+    left: 67px;
+    width: 1792px;
+    height: 567px;
+}
+.caja2 img#img1{
+    position: relative;
+    width: 181px;
+    height: 309px;
+    border: 1px solid #707070;
+    opacity: 1;
+    bottom: 5460px;
+    left: 425px;
+}
+    
+.caja2 img#img2{
+    position: relative;
+    width: 181px;
+    height: 309px;
+    border: 1px solid #707070;
+    opacity: 1;
+    bottom: 5460px;
+    left: 435px;
+
+}
+.caja2 img#img3{
+    position: relative;
+    width: 181px;
+    height: 309px;
+    border: 1px solid #707070;
+    opacity: 1;
+    bottom: 5460px;
+    left: 445px;
+
+}
+.caja2 img#img4{
+    position: relative;
+    width: 181px;
+    height: 309px;
+    border: 1px solid #707070;
+    opacity: 1;
+    bottom: 5460px;
+    left: 455px;
+}
+.caja2 img#img5{
+    position: relative;
+    width: 181px;
+    height: 309px;
+    border: 1px solid #707070;
+    opacity: 1;
+    bottom: 5460px;
+    left: 465px;
+}
+.caja2 img#img6{
+    position: relative;
+    width: 181px;
+    height: 309px;
+    border: 1px solid #707070;
+    opacity: 1;
+    bottom: 5460px;
+    left: 475px;
+}
+.caja2 h1.text5{
+    position: relative;
+    bottom: 5940px;
+    font-size: 60px;
+    color: white;
+    left: 216px;
+}
+.caja2 p.text6{
+    position: relative;
+    bottom: 5610px;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    left: 20px;
+    opacity: 70%;
+    width: 1800px;
+}
+.caja3 h1.text7{
+    position:relative;
+    bottom: 6240px;
+    font-size: 60px;
+    color: white;
+    left: 620px;
+}
+.caja3 p.text8{
+    position:relative;
+    text-align: center;
+    bottom: 6090px;
+    font-size: 60px;
+    color: white;
+    width: 1800px;
+    left: 50px;
+    opacity: 70%;
+}
+.caja3 img#x{
+    position: relative;
+    width: 169px;
+    height: 169px;
+    left: 900px;
+    bottom: 5915px;
+}
+.caja4 img#iphone{
+    position: relative;
+    width: 256px;
+    height: 219px;
+    bottom: 6350px;
+    left: 410px;
+}
+.caja4 img#mac{
+    position: relative;
+    width: 584px;
+    height: 534px;
+    bottom: 6170px;
+    left: 440px;
+}
+.caja4 img#pc{
+    position: relative;
+    width: 271px;
+    height: 238px;
+    bottom: 6330px;
+    left: 410px;
+}
+.caja4 p#title1{
+    position: relative;
+    font-size: 125px;
+    bottom: 6100px;
+    left: 500px;
+    color: white;
+    
+}
+.caja4 p#text9{
+    position: relative;
+    font-size: 45px;
+    bottom: 6180px;
+    left: 280px;
+    width: 1400px;
+    color: white;
+    text-align: center;
+    opacity: 70%;
+}
+.caja5 img{
+    position: relative;
+    width: 92px;
+    height: 20px;
+    bottom: 6200px;
+    left: 830px;
+}
+.caja5 img#final{
+    position: relative;
+    width: 831px;
+    height: 25px;
+    bottom: 6150px;
+    left: 500px;
+}
