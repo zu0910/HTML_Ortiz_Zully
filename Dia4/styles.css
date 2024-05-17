@@ -1,17 +1,28 @@
 @font-face {
     font-family: "Mifuente";
-    src: url("fuente/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/Amazon-Ember-Medium.ttf");
+    src: url("fuente/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/AmazonEmber_Th.ttf");
+}
+@font-face {
+    font-family: "Mifuente2";
+    src: url("fuente/Amazon_Typefaces_Complete_Font_Set_Mar2020/Ember/AmazonEmber_Bd.ttf");
 }
 body{
     margin: 0 auto;
     width: 1920px;
     height: 1080px; 
     font-family: "Mifuente";
+    background-color: black;
+}
+.contenedor{
+    height: 4149px;
+    overflow: hidden;
+
+    
 }
 #fondo_negro{
     width: 1918px;
     height: 4149px;
-    border: 1px solid #707070;
+    
 }
 #fondo2{
     position: relative;
@@ -50,10 +61,10 @@ body{
 p#login{
     position: relative;
     font-size: 20px;
-    opacity: 100%;
     left: 36%;
     color: black;
     top: 10px;
+    font-weight: bold;
 }
 h1#text1{
     position: relative;
@@ -85,11 +96,12 @@ p#text2{
 }
 p#Sign-Up{
     position: relative;
-    font-size: 47px;
+    font-size: 40px;
     opacity: 100%;
-    left: 8%;
+    left: 13%;
     color: black;
     top: 20px;
+    font-weight: bold;
 }
 .caja1 img{
     position: relative;
@@ -174,17 +186,20 @@ p#Sign-Up{
     bottom: 5940px;
     font-size: 60px;
     color: white;
-    left: 216px;
+    left: 160px;
+    font-weight: bolder;
+    font-family: "Mifuente2";
 }
 .caja2 p.text6{
     position: relative;
-    bottom: 5610px;
+    bottom: 5560px;
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
     color: white;
-    left: 20px;
-    opacity: 70%;
+    left: 60px;
+    font-family: "Mifuente";
     width: 1800px;
+    
 }
 .caja3 h1.text7{
     position:relative;
@@ -192,22 +207,23 @@ p#Sign-Up{
     font-size: 60px;
     color: white;
     left: 620px;
+    font-family: "Mifuente2";
 }
 .caja3 p.text8{
     position:relative;
     text-align: center;
-    bottom: 6090px;
-    font-size: 60px;
+    bottom: 6035px;
+    font-size: 40px;
     color: white;
     width: 1800px;
-    left: 50px;
-    opacity: 70%;
+    left: 110px;
+    font-family: "Mifuente";
 }
 .caja3 img#x{
     position: relative;
     width: 169px;
     height: 169px;
-    left: 900px;
+    left: 910px;
     bottom: 5915px;
 }
 .caja4 img#iphone{
@@ -234,20 +250,22 @@ p#Sign-Up{
 .caja4 p#title1{
     position: relative;
     font-size: 125px;
-    bottom: 6100px;
+    bottom: 6090px;
     left: 500px;
+    height: 125px;
     color: white;
+    font-family: "Mifuente";
     
 }
 .caja4 p#text9{
     position: relative;
     font-size: 45px;
     bottom: 6180px;
-    left: 280px;
-    width: 1400px;
+    left: 250px;
+    width: 1544px;
     color: white;
     text-align: center;
-    opacity: 70%;
+    font-family: "Mifuente";
 }
 .caja5 img{
     position: relative;
@@ -260,6 +278,21 @@ p#Sign-Up{
     position: relative;
     width: 831px;
     height: 25px;
-    bottom: 6150px;
-    left: 500px;
+    bottom: 6250px;
+    left: 470px;
+}
+.caja5 img#logo2{
+    position: relative;
+    width: 430px;
+    height: 241px;
+    left: -80px;
+}
+.caja5 img#powered{
+    position: relative;
+    width: 92px;
+    height: 20px;
+    left: -500px;
+    bottom: 6395px;
+    
+
 }
